@@ -5,8 +5,9 @@ Marked Style: Github
 ## Changing files and committing those changes.
 
 1. Use a [text editor](https://en.wikipedia.org/wiki/Text_editor) to add `Manfred Delmonte` to a new line in `files/employees.txt` and `Peaches` to a new line in `files/products.txt`.
-1. Stage the changes that you made to the files. Use the `git status` command to check that you have staged all of your changes.
+1. Discover which files need to be committed. Stage the changes that you made to the files.
 1. Commit your staged changes using the commit message "Add Manfred and Peaches". 
+1. Check that all of your changes are committed.
 
 ## Pushing
 
