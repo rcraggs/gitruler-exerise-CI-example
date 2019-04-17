@@ -2,12 +2,19 @@
   "setup-files": [],
   "rules": [
     {
+      "rule": "text",
+      "separator": "-",
+      "width": 80,
+      "heading": "Commit changes to file",
+      "double-space": true
+    },
+    {
       "rule": "file-contains-in-head",
       "path": "files/employees.txt",
       "contents": "delmonte",
       "ignore-case": true,
       "failure-message": "Did you change employees.txt and commit your changes?",
-      "alternative-title": "employees.txt contains 'Manfred'",
+      "alternative-title": "employees.txt is committed with containing the text 'Manfred'",
       "score-if-correct": 10
     },
     {
@@ -16,7 +23,7 @@
       "contents": "peaches",
       "ignore-case": true,
       "failure-message": "Did you change products.txt and commit your changes?",
-      "alternative-title": "products.txt contains 'Peaches'",
+      "alternative-title": "products.txt is committed with containing the text 'Peaches'",
       "score-if-correct": 10
     },
     {
