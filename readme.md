@@ -16,4 +16,4 @@ If you have your own repository containing this exercise (e.g. a fork) then you 
 
 1. For many of the steps you could use the [Git cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) or [git - the simple guide](http://rogerdudler.github.io/git-guide/) to find the correct command.
 1. For setting up your git configuration you can see the "Your Identity" and "Your Editor" sections of the [Git Pro Book](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup).
-1. For staging and committing modifications to already tracked files take a look at "Staging Modified Files" and "Committing Your Changes" in [Git Pro Book]https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository). These sections will also explain how to provide commit messages.
+1. For staging and committing modifications to already tracked files take a look at "Staging Modified Files" and "Committing Your Changes" in [Git Pro Book](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository). These sections will also explain how to provide commit messages.
