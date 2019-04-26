@@ -1,0 +1,7 @@
+language: java
+
+before_script:
+  - wget -q https://github.com/rcraggs/gitruler/releases/latest/download/gitruler.jar
+
+script:
+  - java -jar ./gitruler.jar
